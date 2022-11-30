@@ -40,19 +40,13 @@
 
    **SERVER** 
 
-   S3 
+   Ubuntu `20.04 LTS`
 
-   https 
+   MobaXterm `v22.1` 
 
-   Ubuntu 
+   Docker `20.10.21`
 
-   Nginx 
-
-   PuTTY 
-
-   Docker 
-
-   Jenkins
+   Jenkins `2.361.4`
 
    **FE** 
 
